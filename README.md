@@ -1,4 +1,5 @@
 # SQL Project - Music Store Analysis
+![MusicDatabaseSchema](https://github.com/data-enthusiast-shubhs/Music-Store-Analysis---SQL/assets/115934788/362283f2-b524-4c59-95f2-9c6a9980b899)
 
 
 Welcome to the SQL project focused on analyzing an online music store's dataset. This project is designed with beginners in mind and aims to provide an opportunity to learn how to work with SQL queries to analyze a music playlist database. By using SQL, you'll gain insights into various aspects of the music store's data and contribute to the understanding of its business growth trajectory.
